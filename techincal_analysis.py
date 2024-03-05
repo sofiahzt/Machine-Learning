@@ -1,8 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
+import pandas as pd
+import matplotlib.pyplot as plt
+import ta
+from itertools import combinations
+import optuna
 
 
 
